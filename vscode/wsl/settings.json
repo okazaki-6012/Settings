@@ -1,0 +1,11 @@
+{
+  "go.gopath": "/home/okazaki/go",
+  "go.formatTool": "goformat",
+  "go.autocompleteUnimportedPackages": true,
+  "[go]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  }
+}
