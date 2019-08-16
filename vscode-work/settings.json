@@ -1,0 +1,17 @@
+{
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": true,
+    "workbench.colorTheme": "Monokai",
+    "go.gopath": "C:\\.go",
+    "editor.formatOnSave": true,
+    "go.formatTool": "gofmt",
+    "[go]": {
+        "editor.formatOnSave": true
+    },
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 20,
+    "editor.tabSize": 2,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "extensions.ignoreRecommendations": false,
+}
