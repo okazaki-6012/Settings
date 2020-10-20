@@ -9,6 +9,7 @@
 - [RictyDiminished: フォント](https://github.com/edihbrandon/RictyDiminished/releases)
 - [Terapad: エディタ](https://tera-net.com/dl/tpad/tpad109.exe)
 - [Firefox: ブラウザ](https://www.mozilla.org/ja/firefox/new/)
+- [vscode Thene](vscode:extension/diff001a.kawaii-theme)
 
 ### Chocolatey(パッケージ管理ツール)
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
